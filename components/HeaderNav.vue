@@ -2,7 +2,7 @@
   <nav>
     <ul>
       <li><NuxtLink to="/">Home</NuxtLink></li>
-      <li><NuxtLink to="/sobre">Sobre</NuxtLink></li>
+      <li><NuxtLink to="/quem-somos">Quem Somos</NuxtLink></li>
       <li><NuxtLink to="/contato">Contato</NuxtLink></li>
     </ul>
   </nav>

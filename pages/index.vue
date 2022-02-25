@@ -1,5 +1,9 @@
 <template>
-  <Header/>
+  <div id="root">
+    <Header/>
+    <Main/>
+    <Footer/>
+  </div>
 </template>
 
 <script>
